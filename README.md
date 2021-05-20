@@ -1,24 +1,9 @@
-# mnist_tutorial
-A tutorial for MNIST handwritten digit classification using sklearn, PyTorch and Keras.
 
-# Code structure
+# Submission
 * [`numpy_matplotlib_sklearn.ipynb`](numpy_matplotlib_sklearn.ipynb): for numpy, matplotlib and sklearn.
-* [`pytorch.ipynb`](pytorch.ipynb): for pytorch.
 * [`keras.ipynb`](keras.ipynb): for keras.
-* Reference solution: (not published yet)
-    * [`numpy_matplotlib_sklearn_solution.ipynb`](numpy_matplotlib_sklearn_solution.ipynb)
-    * [`pytorch_solution.ipynb`](pytorch_solution.ipynb)
-    * [`keras_solution.ipynb`](keras_solution.ipynb)
 
-# Requirements
-Code tested on following environments, other version should also work:
-* linux system (ubuntu 16.04) 
-* python 3.6.3
-* numpy 1.13.3
-* matplotlib 2.1.0
-* sklearn 0.19.1
-* pytorch 0.4.1
-* keras 2.1.2
-
-# For students from SJTU
-Please read [HEAR](EE369.md).
+# Accuracy shown below(Raw data published in data)
+               Q1       Q2       Q3       Q4       Q6
+train_accuracy:0.9775   0.8222   0.98     0.9708   0.9456
+test_accuracy: 0.874    0.796    0.846    0.861    0.9438
